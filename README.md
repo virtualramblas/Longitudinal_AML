@@ -15,3 +15,5 @@ Bulk RNA-seq Pipeline
 Results: Extracted differentially expressed genes (DEGs), feature importance scores, and ranked BDM signatures for reproducibility.
 
 All code and result files are provided to allow full reproduction of the analyses in the manuscript.
+Note: In the bulk transcriptome analysis code, please comment out Breast and Pros samples in the final snippet. 
+These were additional tissue samples used for comparative analysis. 
