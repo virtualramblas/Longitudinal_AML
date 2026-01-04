@@ -22,4 +22,4 @@ The bulk Pediatric Leukemia Transcriptome raw data can be downloaded from [here]
 ## AML Code Execution
 Create a Python virtual environment with your tool of choice, activate it and then install the requirements listed in the ```requirements.txt``` file. MacOS users with Apple Silicon must install also the requirement listed in the ```requirements_mac.txt``` file to use hardware acceleration (recommended for LSTMs and Transformer training in particular). The end-to-end code is included in the ```AML Code.ipynb``` notebook (Jupyter, JupyterLab or VS Code with Jupyter notebook support installed is needed for running it).  
 ## PyTorch Version
-A PyTorch implementation of the Transformer code (and for the LSTM and BiLSTM next) can be found [here](https://github.com/virtualramblas/Longitudinal-AML-in-PyTorch).  
+A PyTorch implementation of the Transformer code and the LSTM (and for the BiLSTM next) can be found [here](https://github.com/virtualramblas/Longitudinal-AML-in-PyTorch).  
